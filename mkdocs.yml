@@ -1,1 +1,6 @@
 site_name: Test Documentation
+pages:
+- [index.md, Home]
+- [main.md, Main]
+- [overview.md, Overview]
+- [technologies.md, Technologies]
