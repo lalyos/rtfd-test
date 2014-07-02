@@ -1,11 +1,19 @@
-# heading1
+# header 1
 
-some list comes here:
+somelist come here:
 
-- one
+- one 
 - two
-- treee
+- treeeee
 
-## heading 2
+## code example
 
-bla blabla bla bla bla bla blabla bla
+Let see some real code:
+
+```
+#!/bin/bash
+
+delete() {
+  rm -rf /tmp
+}
+```
